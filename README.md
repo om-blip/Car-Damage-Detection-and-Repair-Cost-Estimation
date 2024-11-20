@@ -48,16 +48,6 @@ Ensure the following tools are installed on your system:
 
 --
 
-## 🧪 Experimental Results  
-
-| Damage Category   | Average Precision (AP) | Cost Estimation Accuracy |
-|--------------------|-------------------------|---------------------------|
-| Doors             | 92%                    | ±5%                      |
-| Bumpers           | 94%                    | ±7%                      |
-| Headlights        | 96%                    | ±4%                      |
-
----
-
 ## 🌟 Future Enhancements  
 - **Broader Dataset**: Include more diverse damage scenarios and vehicle types.  
 - **Severity Detection**: Improve classification to assess the extent of damage.  
