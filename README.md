@@ -44,7 +44,7 @@ Ensure the following tools are installed on your system:
 ### Damage Detection and Cost Estimation  
 ![Damage Detection Example 1](./images/damage_detection1.png)  
   
-![Damage Detection Example 2](./images/cost_estimation.png)  
+![Damage Detection Example 2](./images/damage_detection3.png)  
 
 --
 
