@@ -19,10 +19,6 @@ This project leverages **Mask R-CNN** and **Deep Learning** techniques to automa
 
 ---
 
-## Dataset Used: https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset
-
----
-
 ## 🛠️ Technologies Used  
 - **Deep Learning**: Mask R-CNN for object detection and instance segmentation.  
 - **Framework**: Detectron2 for model training and evaluation.  
