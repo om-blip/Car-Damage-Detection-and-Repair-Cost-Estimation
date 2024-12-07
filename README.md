@@ -12,10 +12,14 @@ This project leverages **Mask R-CNN** and **Deep Learning** techniques to automa
 ---
 
 ## 📂 Project Structure  
-- **Dataset Creation**: Manually annotated datasets with damage instances and repair costs.  
+- **Dataset**: Datasets with damage instances and manually created repair costs.  
 - **Model Training**: Detectron2-based Mask R-CNN fine-tuned on car damage images.  
 - **Prediction Pipeline**: Automated damage detection and repair cost estimation using IoU and regression models.  
-- **Evaluation**: Performance metrics include Average Precision (AP) and model accuracy across damage categories.
+- **Evaluation**: Performance metrics include Average Precision (AP), model accuracy and IOU scores across damage categories.
+
+---
+
+## Dataset Used: https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset
 
 ---
 
